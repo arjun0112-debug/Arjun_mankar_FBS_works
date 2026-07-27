@@ -1,0 +1,1 @@
+# write a program to check if given 3 digit number is palindrome or not.
